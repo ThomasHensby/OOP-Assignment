@@ -1,0 +1,3 @@
+﻿  Canvas.cpp
+Canvas.obj : error LNK2019: unresolved external symbol "public: __thiscall Block::Block(int,int,int,int,int,int)" (??0Block@@QAE@HHHHHH@Z) referenced in function "public: class std::vector<class Block *,class std::allocator<class Block *> > * __thiscall Canvas::createBlocks(void)" (?createBlocks@Canvas@@QAEPAV?$vector@PAVBlock@@V?$allocator@PAVBlock@@@std@@@std@@XZ)
+C:\Users\thoma\OneDrive - Sheffield Hallam University\Year 2\Object-Orientated Programming for computer science\Main Assignment\Debug\Main Assignment.exe : fatal error LNK1120: 1 unresolved externals
